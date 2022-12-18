@@ -1,0 +1,17 @@
+.navBar{
+    margin-top: -2px;   
+}
+
+#navbarNav ul a{
+    color: aliceblue;
+    font-family:elephant ;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+#main{
+    color:aliceblue;
+}
+
+
+
